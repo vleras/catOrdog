@@ -1,0 +1,18 @@
+# Ignore dataset
+dataset/
+dataset/*
+
+# Ignore trained models
+saved_model/
+saved_model/*
+
+# Ignore results 
+results/
+results/*
+
+# Ignore virtual environment
+venv/
+venv/*
+
+# macOS system files
+.DS_Store
